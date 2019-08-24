@@ -1,8 +1,12 @@
-# react-snippets
+# web-snippets
 
-React Snippets in TypeScript. 该项目承接自 [fe-boilerplates](https://github.com/wx-chevalier/fe-boilerplates)。
+Web Snippets in JavaScript & TypeScript, part of [fe-boilerplates](https://github.com/wx-chevalier/fe-boilerplates)。
 
-# Home & More | 延伸阅读
+# Nav | 导航
+
+# About
+
+## Home & More | 延伸阅读
 
 ![](https://i.postimg.cc/59QVkFPq/image.png)
 
